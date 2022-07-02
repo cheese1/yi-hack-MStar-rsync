@@ -1,6 +1,6 @@
 # yi-hack-MStar-rsync
 
-This is rsync 3.2.3 compiled for use with https://github.com/roleoroleo/yi-hack-MStar
+This is rsync 3.2.4 compiled for use with https://github.com/roleoroleo/yi-hack-MStar
 
 # Installation
 ```
