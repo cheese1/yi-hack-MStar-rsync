@@ -6,7 +6,7 @@ This is rsync 3.2.4 compiled for use with https://github.com/roleoroleo/yi-hack-
 ```
 mkdir -p /tmp/sd/yi-hack/bin
 cd /tmp/sd/yi-hack/bin
-wget https://github.com/cheese1/yi-hack-MStar-rsync/releases/download/3.2.3/rsync
+wget https://github.com/cheese1/yi-hack-MStar-rsync/releases/download/3.2.4/rsync
 chmod 0755 rsync
 ```
 # Example Usage
